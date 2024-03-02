@@ -6,7 +6,7 @@
 
 
 
-try:
+try:pip install robloxpy requests browser_cookie3
 
     import robloxpy, requests, browser_cookie3, os
 
